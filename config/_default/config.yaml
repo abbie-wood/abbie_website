@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Trey Wood # Website name
-baseURL: 'https://treywood10.github.io/' # Website URL
+title: Abbie Wood # Website name
+baseURL: 'https://abbie-wood.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
