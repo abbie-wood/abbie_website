@@ -29,68 +29,68 @@ sections:
 #          icon: database
 #          icon_pack: fas
     
-  - block: experience
-    id: experience
-    content:
-      title: Experience
+#  - block: experience
+#    id: experience
+#    content:
+#      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+#      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Graduate Researcher
-          company: University of Kentucky
-          company_url: 'https://polisci.as.uky.edu'
-          company_logo: UK
-          location: Lexington, KY
-          date_start: '2019-08-01'
-          date_end: '2023-05-06'
-          description: |2-
+#      items:
+#        - title: Graduate Researcher
+#          company: University of Kentucky
+#          company_url: 'https://polisci.as.uky.edu'
+#          company_logo: UK
+#          location: Lexington, KY
+#          date_start: '2019-08-01'
+#          date_end: '2023-05-06'
+#          description: |2-
 
-              * Developed more than fifteen innovative quantitative research projects in rigorous coursework
-              * Constructed and analyzed datasets using diverse modeling techniques in STATA and R
+ #             * Developed more than fifteen innovative quantitative research projects in rigorous coursework
+ #             * Constructed and analyzed datasets using diverse modeling techniques in STATA and R
     
-        - title: Primary Instructor
-          company: University of Kentucky
-          company_url: 'https://polisci.as.uky.edu'
-          company_logo: UK
-          location: Lexington, KY
-          date_start: '2019-08-01'
-          date_end: '2023-05-06'
-          description: |2-
+#        - title: Primary Instructor
+#          company: University of Kentucky
+#          company_url: 'https://polisci.as.uky.edu'
+#          company_logo: UK
+#          location: Lexington, KY
+#          date_start: '2019-08-01'
+#          date_end: '2023-05-06'
+#          description: |2-
 
-              * Condensed intricate political theories into succinct lessons for classes of 50-60 undergraduates
-              * Taught graduate statistics to 10 students, covering advanced methods and statistical software
+#              * Condensed intricate political theories into succinct lessons for classes of 50-60 undergraduates
+#              * Taught graduate statistics to 10 students, covering advanced methods and statistical software
 
-        - title: STATA Orientation Leader
-          company: University of Kentucky
-          company_url: 'https://polisci.as.uky.edu'
-          company_logo: UK
-          location: Lexington, KY
-          date_start: '2022-08-01'
-          date_end: '2022-08-01'
-          description: |2-
+#        - title: STATA Orientation Leader
+#          company: University of Kentucky
+#          company_url: 'https://polisci.as.uky.edu'
+#          company_logo: UK
+#          location: Lexington, KY
+#          date_start: '2022-08-01'
+#          date_end: '2022-08-01'
+#          description: |2-
 
-              * Pioneered the inaugural Statistics Boot Camp for the University’s Political Science Department
-              * Instructed a cohort of first-year graduate students in advanced STATA functionality
+#              * Pioneered the inaugural Statistics Boot Camp for the University’s Political Science Department
+#              * Instructed a cohort of first-year graduate students in advanced STATA functionality
 
-        - title: Data Hub/Community Impact Intern
-          company: United Way of Greater Chattanooga
-          company_url: 'https://unitedwaycha.org'
-          company_logo: UW
-          location: Chattanooga, TN
-          date_start: '2018-01-01'
-          date_end: '2018-05-01'
-          description: |2-
+#        - title: Data Hub/Community Impact Intern
+#          company: United Way of Greater Chattanooga
+#          company_url: 'https://unitedwaycha.org'
+#          company_logo: UW
+#          location: Chattanooga, TN
+#          date_start: '2018-01-01'
+#          date_end: '2018-05-01'
+#          description: |2-
 
-              * Generated GIS maps for Chattanooga neighborhood and crime data for community advocacy
-              * Offered housing trend insights to Hamilton Count officials through impactful GIS visualizations
-    design:
-      columns: '2'
+#              * Generated GIS maps for Chattanooga neighborhood and crime data for community advocacy
+#              * Offered housing trend insights to Hamilton Count officials through impactful GIS visualizations
+#    design:
+#      columns: '2'
     
 #  - block: accomplishments
 #    content:
@@ -221,21 +221,21 @@ sections:
     #  columns: '2'
      # view: card
     
-  - block: portfolio
-    id: papers
-    content:
-      title: Working Papers 
+#  - block: portfolio
+#    id: papers
+#    content:
+#      title: Working Papers 
     #  text: |-
        # {{% callout note %}}
        # Quickly discover relevant content by [filtering publications](./publication/).
        # {{% /callout %}}
-      filters:
-        folders:
-          - working_papers
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+#      filters:
+#        folders:
+#          - working_papers
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
     
 #  - block: collection
 #    id: talks
