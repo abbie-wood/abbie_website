@@ -12,22 +12,22 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: abbie-wood
     
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: ''
-          icon: python
-          icon_pack: fab
-        - name: R
-          description: ''
-          icon: r-project
-          icon_pack: fab
-        - name: SQL
-          description: ''
-          icon: database
-          icon_pack: fas
+#  - block: features
+#    content:
+#      title: Skills
+#      items:
+#        - name: Python
+#          description: ''
+#          icon: python
+#          icon_pack: fab
+#        - name: R
+#          description: ''
+#          icon: r-project
+#          icon_pack: fab
+#        - name: SQL
+#          description: ''
+#          icon: database
+#          icon_pack: fas
     
   - block: experience
     id: experience
@@ -92,57 +92,57 @@ sections:
     design:
       columns: '2'
     
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      #title: 'Accomplish&shy;ment'
-      title: 'Software Training'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5911e494eb9909e1a17707f9ac41002cd0046b6a?raw=1
-          date_end: ''
-          date_start: '2023-09-04'
-          description: 'Successfully completed the Data Scientist Professional with Python career track on DataCamp.'
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Data Scientist Professional with Python'
-          url: ''
+#  - block: accomplishments
+#    content:
+#      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+#      #title: 'Accomplish&shy;ment'
+#      title: 'Software Training'
+#      subtitle:
+#      # Date format: https://wowchemy.com/docs/customization/#date-format
+#      date_format: Jan 2006
+#      # Accomplishments.
+#      #   Add/remove as many `item` blocks below as you like.
+#      #   `title`, `organization`, and `date_start` are the required parameters.
+#      #   Leave other parameters empty if not required.
+#      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#      items:
+#        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5911e494eb9909e1a17707f9ac41002cd0046b6a?raw=1
+#          date_end: ''
+#          date_start: '2023-09-04'
+#          description: 'Successfully completed the Data Scientist Professional with Python career track on DataCamp.'
+#          organization: DataCamp
+#          organization_url: https://www.datacamp.com
+#          title: 'Data Scientist Professional with Python'
+#          url: ''
     
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/890e82b3bffb40d4ea3fe9ed4eadfd42262de3ff?raw=1
-          date_end: ''
-          date_start: '2023-01-21'
-          description: 'Successfully completed the Data Scientist with R career track on DataCamp'
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Data Scientist with R'
-          url: ''
+#        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/890e82b3bffb40d4ea3fe9ed4eadfd42262de3ff?raw=1
+#          date_end: ''
+#          date_start: '2023-01-21'
+#          description: 'Successfully completed the Data Scientist with R career track on DataCamp'
+#          organization: DataCamp
+#          organization_url: https://www.datacamp.com
+#          title: 'Data Scientist with R'
+#          url: ''
 
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/1bffc4253b9393bca0ce92aab348965dcc56f152?raw=1
-          date_end: ''
-          date_start: '2023-01-17'
-          description: 'Successfully completed the Data Analyst with SQL career track on DataCamp'
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Data Analyst with SQL'
-          url: ''
+#        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/1bffc4253b9393bca0ce92aab348965dcc56f152?raw=1
+#          date_end: ''
+#          date_start: '2023-01-17'
+#          description: 'Successfully completed the Data Analyst with SQL career track on DataCamp'
+#          organization: DataCamp
+#          organization_url: https://www.datacamp.com
+#          title: 'Data Analyst with SQL'
+#          url: ''
     
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/180bca800ea843793bb00a3d3b2163b678acdb8f?raw=1
-          date_end: ''
-          date_start: '2023-01-11'
-          description: 'Successfully completed the Data Analyst with Power BI career track on DataCamp'
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Data Analyst with Power BI'
-          url: ''
-    design:
-      columns: '2'
+#        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/180bca800ea843793bb00a3d3b2163b678acdb8f?raw=1
+#          date_end: ''
+#          date_start: '2023-01-11'
+#          description: 'Successfully completed the Data Analyst with Power BI career track on DataCamp'
+#          organization: DataCamp
+#          organization_url: https://www.datacamp.com
+#          title: 'Data Analyst with Power BI'
+#          url: ''
+#    design:
+#      columns: '2'
     
 #  - block: collection
 #    id: posts
@@ -172,33 +172,33 @@ sections:
 #      view: compact
 #      columns: '2'
     
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Kaggle
-          tag: Kaggle
-        - name: Fun
-          tag: Fun
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+#  - block: portfolio
+#    id: projects
+#    content:
+#      title: Projects
+#      filters:
+#        folders:
+#          - project
+#      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+#      default_button_index: 0
+#      # Filter toolbar (optional).
+#      # Add or remove as many filters (`filter_button` instances) as you like.
+#      # To show all items, set `tag` to "*".
+#      # To filter by a specific tag, set `tag` to an existing tag name.
+#      # To remove the toolbar, delete the entire `filter_button` block.
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Kaggle
+#          tag: Kaggle
+#        - name: Fun
+#          tag: Fun
+#    design:
+#      # Choose how many columns the section has. Valid values: '1' or '2'.
+#      columns: '1'
+#      view: showcase
+#      # For Showcase view, flip alternate rows?
+#      flip_alt_rows: false
     
 #  - block: markdown
 #    content:

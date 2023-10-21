@@ -22,7 +22,7 @@ organizations:
     url: https://polisci.as.uky.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: MAKE A BIO
+bio: A motivated and passionate professional currently seeking new opportunities in higher education administration. 
 
 # Interests to show in About widget
 interests:
@@ -59,7 +59,7 @@ social:
   # and uncomment the lines below.
   - icon: file-alt
     icon_pack: fas
-    link: uploads/TW_Resume.pdf
+    link: uploads/WoodResume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -68,5 +68,12 @@ email: ''
 highlight_name: true
 ---
 
-Make a written bio
+I am an ABD Ph.D. candidate and primary instructor at the University of Kentucky, set to receive my Ph.D. in Political Science in May of 2023. My research focuses on judicial politics and the determinants of behavior by United States Supreme Court justices.  
+
+I am currently seeking new career opportunities in higher education administration. With over 5 years of experience at various higher education institutions, I have a wide range of skills and expertise as it pertains to understanding the needs of students and universities. 
+
+My professional and educational career has allowed me to develop skills in professional writing, data collection and analytics, communicating complex information to various audience types, collaboration and teamwork, grant work, and institutional service. 
+
+When not busy with work, I love spending time with my husband, drinking lots of coffee, running, watching sports, or reading! 
+
 {style="text-align: justify;"}
